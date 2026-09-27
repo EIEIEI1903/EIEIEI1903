@@ -58,7 +58,7 @@
 ---
 
   
-### 📊 My Statistics
+### 📊 Statistics
 
   
 <p align="center">
@@ -80,4 +80,4 @@
 
 ---
 
-> Made with ☕ · [github.com/EIEIEI1903](https://github.com/EIEIEI1903)
+> 2026 · [github.com/EIEIEI1903](https://github.com/EIEIEI1903)
