@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Willkommen!&font=Fira+Code&center=true&width=450&height=150&duration=4000&pause=4000&color=2ecc71&backgroundColor=161b22&size=60" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome!&font=Fira+Code&center=true&width=450&height=150&duration=4000&pause=4000&color=2ecc71&backgroundColor=161b22&size=60" alt="Typing Animation" />
 </p>
 
 
@@ -31,19 +31,19 @@
 ---
 
 
-<h2>Projektübersicht </h2> 
+<h2>Project Overview </h2> 
 
 
 ### 🔥 Baldurs Gate 1 EE
 
-| Projekt                          | Beschreibung                                            
+| Project                          | Description                                            
 |----------------------------------|----------------------------------------------------------------------------------------|
 | <a href="https://github.com/EIEIEI1903/Baldurs-Gate-EE-RANDOMIZER"><img src="https://img.shields.io/badge/Randomizer-181717?style=flat-square&logo=github&logoColor=blue" alt="Link to Randomizer"></a> | Randomizer - A WEIDU Randomization Tool for BG 1 EE   	| 
 	
 
 ### 🔥 Baldurs Gate 2 EE
 
-| Projekt                          | Beschreibung                                            
+| Project                          | Description                                            
 |----------------------------------|----------------------------------------------------------------------------------------|
 | 								   |  																					   	| 
 	
@@ -51,14 +51,14 @@
 
 ### 🔥 Baldurs Gate 3
 
-| Projekt                          | Beschreibung                                            
+| Project                          | Description                                            
 |----------------------------------|----------------------------------------------------------------------------------------|
 | 								   |  																					   	| 
 	
 ---
 
   
-### 📊 Meine Statistiken
+### 📊 My Statistics
 
   
 <p align="center">
@@ -72,7 +72,7 @@
   
 ---
 
-### 📫 Kontakt
+### 📫 Contact
 
 | Platform       | Link                                                                 							   |
 |----------------|-----------------------------------------------------------------------------------------------------|
