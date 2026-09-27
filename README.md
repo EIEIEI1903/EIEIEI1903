@@ -38,7 +38,7 @@
 
 | Projekt                          | Beschreibung                                            
 |----------------------------------|----------------------------------------------------------------------------------------|
-| <a href="https://github.com/EIEIEI1903"><img src="https://img.shields.io/badge/Randomizer-181717?style=flat-square&logo=github&logoColor=blue" alt="Link to Randomizer"></a> | Randomizer - A WEIDU Randomization Tool for BG 1 EE   	| 
+| <a href="https://github.com/EIEIEI1903/Baldurs-Gate-EE-RANDOMIZER"><img src="https://img.shields.io/badge/Randomizer-181717?style=flat-square&logo=github&logoColor=blue" alt="Link to Randomizer"></a> | Randomizer - A WEIDU Randomization Tool for BG 1 EE   	| 
 	
 
 ### 🔥 Baldurs Gate 2 EE
